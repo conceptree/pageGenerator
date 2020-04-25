@@ -1,2 +1,2 @@
-# pageGenerator
-Web pages generator
+# Web Page Generator
+Responsive web pages generator
